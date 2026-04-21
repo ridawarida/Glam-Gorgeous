@@ -1,5 +1,5 @@
 {
-  "deploy": {
-    "startCommand": "php artisan storage:link && php artisan config:cache && php artisan route:cache"
+  "build": {
+    "builder": "RAILPACK"
   }
 }
