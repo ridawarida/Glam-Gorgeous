@@ -1,0 +1,74 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Nahin Warida
+Student ID: 22201196
+Assignment: Project
+Date: 21/04/2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ❌ ] None
+[ ❌] ChatGPT
+[ ❌] GitHub Copilot
+[ ❌] Google Gemini
+[ ❌] Claude
+[ ❌] Cursor
+[ ✅] Other: Deepseek
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[✅ ] Learning/understanding concepts
+[✅] Debugging my code
+[❌ ] Generating code snippets
+[✅ ] Writing text content
+[✅] Design/styling ideas
+[❌ ] Image generation
+[✅ ] Other: ___Deploment help_____________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how:
+
+Generating test data for database testing.
+
+Learning: elaborating on syntax of example codes given in Laravel documentation
+
+Suggesting bootstrap elements for better styling. 
+
+Debugging routes and certain malware for client/admin authorisation.
+
+Deployment on Railway
+
+
+
+
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: web.php; Section: admin and client routes with middleware
+File: Database Seeder; Section: Test data generation 
+File: AdminMiddleware, NotAdminMiddleware Section: _________________
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: _________Nahin______________
+Date: _____________21/04/26_____________
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
